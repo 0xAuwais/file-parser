@@ -1,0 +1,3 @@
+transactionId,merchantId,amount,reference
+TXN-001,ACME,125.00,ok
+TXN-000000000002,GLOBEX,80.50,transaction id is too long

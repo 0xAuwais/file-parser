@@ -1,0 +1,4 @@
+transactionId,merchantId,amount,reference
+TXN-001,ACME,125.00,Invoice 8842
+TXN-002,GLOBEX,80.50,
+TXN-003,INITECH,42.00,Refund

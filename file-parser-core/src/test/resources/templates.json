@@ -1,0 +1,29 @@
+{
+  "templates": [
+    {
+      "name": "merchant-settlement",
+      "fields": [
+        {
+          "name": "transactionId",
+          "length": 12,
+          "required": true
+        },
+        {
+          "name": "merchantId",
+          "length": 8,
+          "required": true
+        },
+        {
+          "name": "amount",
+          "length": 15,
+          "required": true
+        },
+        {
+          "name": "reference",
+          "length": 30,
+          "required": false
+        }
+      ]
+    }
+  ]
+}
